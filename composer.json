@@ -1,0 +1,17 @@
+{
+    "name": "skylee/common_used_function",
+    "description": "常用函数",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sky lee",
+            "email": "690035384@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload" :  {
+        "psr-4" :   {
+            "skylee\\" : "src/common_used_function"
+        }
+    }
+}
